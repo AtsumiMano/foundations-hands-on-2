@@ -1,3 +1,3 @@
-#fundations-hands-on-2
+# fundations-hands-on-2
 
 Hello, world.
